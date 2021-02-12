@@ -1,0 +1,6 @@
+{
+    "schemaType": "NERDLET",
+    "id": "devops-dashboard-nerdlet",
+    "displayName": "DevOps Dashboard [Jira Integration]",
+    "description": "JIRA DevOps Dashboard"
+}

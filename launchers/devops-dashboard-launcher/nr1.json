@@ -1,0 +1,7 @@
+{
+    "schemaType": "LAUNCHER",
+    "id": "devops-dashboard-launcher",
+    "displayName": "Devops Dashboard [Jira Integration]",
+    "description": "JIRA DevOps Dashboard",
+    "rootNerdletId": "devops-dashboard-nerdlet"
+}
