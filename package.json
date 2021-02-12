@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "name": "devops-dashboard",
+  "version": "1.0.4",
+  "scripts": {
+    "start": "nr1 nerdpack:serve",
+    "test": "exit 0"
+  },
+  "nr1": {
+    "uuid": "00b47c47-6ab2-4cc8-8e79-20a8f051b840"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  },
+  "browserslist": [
+    "last 2 versions",
+    "not ie < 11",
+    "not dead"
+  ]
+}
